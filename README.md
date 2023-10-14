@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Abinash Chetia
+# 👋 Hi! I'm Abinash Chetia
 
 ## 📈 My GitHub Stats
 
