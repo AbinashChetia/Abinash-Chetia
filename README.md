@@ -14,3 +14,4 @@
 ## 🔗 Connect with me
 
 [![Linked-In](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/abinash-chetia-b33280190/)
+[![Portfolio](https://img.shields.io/badge/Portfolio_Website-20B2AA?style=for-the-badge)](https://abinashchetia.github.io)
