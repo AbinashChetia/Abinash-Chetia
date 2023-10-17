@@ -1,5 +1,9 @@
 # 👋 Hi! I'm Abinash Chetia
 
+## About Me
+
+I am currently a post-graduate (M. Tech.) student of Machine Learning and Computing at Indian Institute of Space Science and Technology, Thiruvananthapuram, Kerala, India. I completed my graduation (B. Tech.) in Computer Science and Engineering from Dibrugarh University Institute of Engineering and Technology, Dibrugarh, Assam, India. I have keen interest in the field of Artificial Intelligence and Machine Learning, and would like to pursue a career in this domain.
+
 ## 📈 My GitHub Stats
 
 <div align="center">
